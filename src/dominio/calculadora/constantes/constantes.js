@@ -1,6 +1,7 @@
 const DIAS_UTEIS_NO_MES = 22;
 const HORAS_POR_DIA = 8;
 
+
 const MAX_HORAS_POR_PACOTE = {
   pacote_basico: 50,
   pacote_intermediario: 100,
